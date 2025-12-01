@@ -1,3 +1,10 @@
+<!-- Typing SVG Banner -->
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=1E90FF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Akhand+Pratap+Singh;Data+Engineer+%7C+SRE;Cloud-Native+Enthusiast;Building+Data+Pipelines+at+Scale;Welcome+to+my+GitHub+👋)
+
+</div>
+
 # 👋 Hi, I’m **Akhand Pratap Singh**  
 ### *Data Engineer | SRE | Cloud-Native Enthusiast*
 
@@ -111,7 +118,7 @@ I love turning messy, unreliable data processes into clean, automated systems th
 ## 🧠 Most Used Languages
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipratapthakur&layout=compact&theme=tokyonight" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipratapthakur&layout=compact&theme=tokyonight&langs_count=8" alt="Most used languages"/>
 </div>
 
 
