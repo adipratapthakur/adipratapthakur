@@ -94,3 +94,37 @@ Built using **DuckDB SQL + Iceberg**, orchestrated via Airflow:
 ## ⭐ Fun Fact
 I love turning messy, unreliable data processes into clean, automated systems that “just work.”
 
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=adipratapthakur&show_icons=true&theme=tokyonight" height="180px"/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=adipratapthakur&theme=tokyonight" height="180px"/>
+
+</div>
+
+
+## 🧠 Most Used Languages
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adipratapthakur&layout=compact&theme=tokyonight" height="170px"/>
+</div>
+
+
+## 📈 Contribution Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adipratapthakur&theme=react-dark&area=true&hide_border=true"/>
+</div>
+
+
+## 👀 Profile Views
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=adipratapthakur&label=Profile%20Views&color=blue&style=for-the-badge" />
+</div>
+
