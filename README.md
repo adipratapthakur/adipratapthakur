@@ -118,7 +118,8 @@ I love turning messy, unreliable data processes into clean, automated systems th
 ## 🧠 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adipratapthakur&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adipratapthakur&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adipratapthakur&theme=tokyonight" />
 </div>
 
 
